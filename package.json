@@ -1,0 +1,23 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "A task app developed as part of [The Complete Node.js Developer Course](https://www.udemy.com/share/10007CB0scdl1bRXQ=/) by Andrew Mead and Rob Percival",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tackyunicorn/task-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tackyunicorn/task-app/issues"
+  },
+  "homepage": "https://github.com/tackyunicorn/task-app#readme",
+  "dependencies": {
+    "mongodb": "^3.2.3"
+  }
+}
